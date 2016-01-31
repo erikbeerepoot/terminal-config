@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+#	name = Erik Beerepoot
+#	email = erikbeerepoot@hush.com
+[user]
+	email = erikbeerepoot@hush.com
+[alias]
+	co = checkout
+	st = status
+	ci = commit
+	br = branch
+	unstage = reset HEAD --
