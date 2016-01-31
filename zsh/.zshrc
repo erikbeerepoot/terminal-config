@@ -83,8 +83,5 @@ source $ZSH/oh-my-zsh.sh
 alias zshconfig="vi ~/.zshrc"
 alias ppc="pbcopy"
 alias ppp="pbpaste"
-alias gitco="git checkout"
-alias gitcl="git clone"
-alias gitst="git status"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # plugins=(git scala sbt brew github sublime tmux osx tmuxinator)
